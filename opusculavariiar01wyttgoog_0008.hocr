@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./opusculavariiar01wyttgoog_0008.png"; bbox 0 0 2556 4710; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 7 1711 1252 1912">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 7 1711 1252 1912">
+     <span class='ocr_line' id='line_1_1' title="bbox 7 1711 1252 1912; baseline 0.022 -28"><span class='ocrx_word' id='word_1_1' title='bbox 7 1717 11 1766; x_wconf 84' lang='lat'>&#39;</span> <span class='ocrx_word' id='word_1_2' title='bbox 79 1753 320 1896; x_wconf 69' lang='lat' dir='ltr'><strong>nm.</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 377 1711 1252 1912; x_wconf 76' lang='lat' dir='ltr'>WYTTENBACHH</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 242 2183 1214 2308">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 242 2129 1226 2308">
+     <span class='ocr_line' id='line_1_2' title="bbox 242 2183 1214 2308; baseline 0.01 -26"><span class='ocrx_word' id='word_1_4' title='bbox 242 2195 476 2287; x_wconf 89' lang='lat' dir='ltr'><strong>OPU</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 528 2183 1093 2308; x_wconf 75' lang='lat' dir='ltr'><strong>SCULORUM</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1209 2205 1214 2226; x_wconf 77' lang='grc'><strong>“’</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 342 2536 1025 2652">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 342 2536 1025 2652">
+     <span class='ocr_line' id='line_1_3' title="bbox 342 2536 1025 2652; baseline 0.004 -18"><span class='ocrx_word' id='word_1_7' title='bbox 342 2536 687 2652; x_wconf 80' lang='lat' dir='ltr'>TOMUS</span> <span class='ocrx_word' id='word_1_8' title='bbox 740 2541 1025 2642; x_wconf 83' lang='lat' dir='ltr'>PRIMUS..</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1282 4710">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1282 4710">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1282 4710; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1282 4710; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
